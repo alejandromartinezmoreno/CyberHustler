@@ -1,5 +1,3 @@
-[Volver al inicio](https://alejandromartinezmoreno.github.io)
-
 ---
 layout: default
 ---
