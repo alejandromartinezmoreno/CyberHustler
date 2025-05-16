@@ -6,7 +6,7 @@ Además, mediante la funcionalidad de GitHub Pages, se ha generado un sitio web 
 
 Resoluciones:
 - [Strutted](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/HTB:Strutted/Strutted.html)
-- [Lame](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/HTB:Lame/Lame.html)
+- [Lame](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/HTB:Lame/Lame.md)
 
 Para acceder al repositorio en GitHub, haga click en el siguiente enlace:
 [GitHub](https://github.com/alejandromartinezmoreno/Trabajo-Fin-de-Grado)
