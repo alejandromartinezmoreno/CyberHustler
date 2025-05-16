@@ -1,4 +1,4 @@
-# Trabajo-Fin-de-Grado
+# Trabajo Fin de Grado
 
 Este repositorio forma parte de un Trabajo de Fin de Grado (TFG) y tiene como objetivo documentar la resolución técnica de dos máquinas virtuales orientadas a la ciberseguridad.
 
@@ -10,5 +10,5 @@ Resoluciones:
 - [Strutted](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/Strutted/Strutted.html)
 - [Lame](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/Lame/Lame.html)
 
-Para acceder al repositorio en GitHUb, haga click en el siguiente enlace:
+Para acceder al repositorio en GitHub, haga click en el siguiente enlace:
 [GitHub](https://github.com/alejandromartinezmoreno/Trabajo-Fin-de-Grado)
