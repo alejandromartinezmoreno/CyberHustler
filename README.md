@@ -1,4 +1,4 @@
-# Trabajo-Fin-de-Grado
+# Trabajo Fin de Grado
 
 Este repositorio forma parte de un Trabajo de Fin de Grado (TFG) y tiene como objetivo documentar la resolución técnica de dos máquinas virtuales orientadas a la ciberseguridad.
 
