@@ -5,8 +5,8 @@ Cada máquina ha sido analizada, explotada y documentada en profundidad, siguien
 Además, mediante la funcionalidad de GitHub Pages, se ha generado un sitio web estático donde se presenta de forma accesible y navegable toda la documentación. Este enfoque permite no solo mostrar el contenido de manera más visual, sino también ofrecer una referencia útil para estudiantes, profesionales o cualquier interesado en el análisis de entornos virtuales de seguridad.
 
 Resoluciones:
-- [Strutted](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/Strutted/Strutted.html)
-- [Lame](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/Lame/Lame.html)
+- [Strutted](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/HTB:Strutted/Strutted.html)
+- [Lame](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/HTB:Lame/Lame.html)
 
 Para acceder a la página de GitHub Pages, haga click en el siguiente enlace:
 [GitHub](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/)
