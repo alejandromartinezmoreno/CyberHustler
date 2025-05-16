@@ -10,6 +10,6 @@ Resoluciones:
 - [Strutted](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/Strutted/Strutted.html)
 - [Lame](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/Lame/Lame.html)
 
-Para acceder al repositorio en GitHUb, haga click en el siguiente enlace:
-[GitHub](https://github.com/alejandromartinezmoreno/Trabajo-Fin-de-Grado)
+Para acceder a la página de GitHub Pages, haga click en el siguiente enlace:
+[GitHub](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado/)
 
