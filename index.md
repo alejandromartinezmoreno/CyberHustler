@@ -1,4 +1,4 @@
-Este repositorio forma parte de un Trabajo de Fin de Grado (TFG) y tiene como objetivo documentar la resolución técnica de dos máquinas virtuales orientadas a la ciberseguridad.
+Este repositorio forma parte de un Trabajo de Fin de Grado (TFG) y tiene como objetivo documentar la resolución técnica de dos máquinas virtuales orientadas a la ciberseguridad ofensiva.
 
 Cada máquina ha sido analizada, explotada y documentada en profundidad, siguiendo una metodología clara y reproducible.
 
