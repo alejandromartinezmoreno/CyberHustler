@@ -17,11 +17,11 @@ layout: default
 
 ## Resolución
 
-# Reconocimiento
+### Reconocimiento
 
 La IP objetivo será 10.10.10.3, mientras que la máquina atacante responderá a la IP 10.10.14.87.
 
-# Escaneo
+### Escaneo
 
 Del mismo modo que en Strutted, la fase de escaneo comenzará con un escaneo de puertos Nmap. Aunque, en esta ocasión, se modificará el comando usado, con el objetivo de conocer más a fondo las posibilidades de esta herramienta.
 
@@ -87,7 +87,7 @@ En último lugar, se estudiará la versión 3.0.20 de Samba.
 
 La versión 3.0.20 de Samba se ve afectada por la vulnerabilidad CVE-2007-2447, la cual permite la ejecución remota de comandos (Remote Code Execution). Dentro de Samba, existe un archivo de configuración llamado “username map”, el cual mapea usuarios de Windows a usuarios de Linux. No obstante, si en el campo de nombre de usuario del archivo mencionado se introducen comandos, se interpretan como un script, lo que permite la ejecución arbitraria o, como es el caso de este exploit, establecer una reverse shell.
 
-# Explotación
+### Explotación
 
 Tras la fase de escaneo, se han determinado dos caminos a seguir desde Metasploit: atacar la vulnerabilidad de vsftpd o de Samba. En primer lugar, se ejecutará el exploit correspondiente al protocolo FTP.
 
@@ -113,7 +113,7 @@ Se procede a lanzar el exploit una vez configurado.
 
 Al parecer, no solo ha sido un éxito, sino que se ha logrado una shell como root, por lo que no hará falta escalar privilegios para obtener la root flag.
 
-# Post Explotación
+### Post Explotación
 
 Con un poco de búsqueda, se obtienen ambas banderas.
 
@@ -123,7 +123,7 @@ Con un poco de búsqueda, se obtienen ambas banderas.
 
 De este modo, se ha completado la máquina virtual Lame, por lo que procede estudiar las conclusiones de su realización.
 
-# Informe y Lecciones Aprendidas
+### Informe y Lecciones Aprendidas
 
 El interés en esta máquina virtual viene dado por el uso de la herramienta Metasploit. Metasploit es un framework de código abierto diseñado para desarrollar, probar y ejecutar exploits en sistemas vulnerables. Es una de las herramientas más conocidas en el mundo de la ciberseguridad y de las pruebas de penetración.
 
