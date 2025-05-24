@@ -17,11 +17,11 @@ layout: default
 
 ## Resolución
 
-# Reconocimiento
+### Reconocimiento
 
 La IP objetivo será 10.10.11.59, mientras que la máquina atacante responderá a la IP 10.10.14.87.
 
-# Escaneo
+### Escaneo
 
 Trivialmente, se deberá realizar un escaneo de puertos con el objetivo de conocer, tanto qué puertos se encuentran abiertos, como qué protocolos se están llevando a cabo en cada puerto. Así, se hace uso de la herramienta Nmap:
 
@@ -76,7 +76,7 @@ Dentro del archivo, destaca el apartado properties, el cual especifica las varia
 
 Struts2 es un framework orientado al desarrollo de aplicaciones web en Java. Existe una vulnerabilidad conocida para la versión 6.3.0.1, conocida como CVE-2024-53677. La lógica de carga de los archivos en este framework contiene una vulnerabilidad que permite la subida sin restricciones de cualquier fichero. Así, explotádola, se abrirá la posibilidad de subir archivos maliciosos o scripts con los que comprometer el sistema, por lo que comienza la fase de explotación.
 
-# Explotación
+### Explotación
 
 La herramienta Burp Suite, definida en el apartado 4.2 del presente trabajo, es de gran utilidad en este momento: permite interceptar peticiones y modificarlas las veces que se requiera. El primer paso será interceptar la petición POST que tiene lugar al subir un archivo.
 
@@ -152,7 +152,7 @@ Dentro del archivo se encuentra contenida una contraseña para el usuario admin.
 
 Las credenciales usadas son válidas y permiten el acceso al protocolo SSH bajo el usuario james. Ahí se encuentra, además la user flag.
 
-# Post Explotación
+### Post Explotación
 
 En este punto, el sistema ya se encuentra comprometido y se ha logrado el acceso a él mediante el usuario james. El siguiente objetivo es obtener la root flag, la cual, para acceder a ella, será necesario llevar a cabo una escalada de privilegios.
 
@@ -188,7 +188,7 @@ Exitosamente se ha logrado rootear el sistema, por lo que, simplemente queda enc
 
 De este modo termina el desafío Capture The Flag: Strutted, y se procederá a comentar las conclusiones extraídas durante el desarrollo de la máquina virtual.
 
-# Informe y Lecciones Aprendidas
+### Informe y Lecciones Aprendidas
 
 El desafío Strutted viene caracterizado por una vulnerabilidad de Apache Struts2, un framework de código abierto, en su versión 6.3.0.1. Dicha vulnerabilidad se conoce como CVE-2024-53677 y, si se explota, se puede conseguir la subida sin restricciones de ficheros, incluyendo aquellos maliciosos. Desde la versión 2.0.0 hasta la 6.4.0 existe un fallo en el componente encargado de manejar las cargas de archivos (FileUploadInterceptor), que se ha logrado explotar en la resolución del CTF.
 
