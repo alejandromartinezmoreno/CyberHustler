@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[Volver al inicio](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado)
 # Máquina Virtual: Strutted
 **Plataforma:** Hack The Box  
 **Categoría:** Pentesting Web, Remote Code Execution, Escalada de Privilegios  
