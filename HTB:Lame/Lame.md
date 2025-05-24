@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Volver al inicio](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado)
+[Volver al inicio](https://alejandromartinezmoreno.github.io/CyberHustler)
 # Máquina Virtual: Lame
 **Plataforma:** Hack The Box
 **Categoría:** Uso de exploits con Metasploit
@@ -147,5 +147,5 @@ Durante el desarrollo del desafío Capture The Flag, han aparecido las siguiente
 
 Si bien Metasploit es una herramienta fuerte, para que su uso en la vida real sea eficaz se necesita identificar un protocolo o servicio cuya versión tenga una vulnerabilidad conocida. Por ello, se reitera la importancia de mantener los equipos, sobre todo aquellos que contengan información importante, con sus componentes y programas actualizados a sus últimas versiones.
 
-[Volver al inicio](https://alejandromartinezmoreno.github.io/Trabajo-Fin-de-Grado)
+[Volver al inicio](https://alejandromartinezmoreno.github.io/CyberHustler)
 
